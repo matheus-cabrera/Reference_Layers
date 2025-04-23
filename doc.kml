@@ -1,0 +1,2059 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kml xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>doc</name>
+<visibility>1</visibility>
+<Schema name="REURB" id="kml_schema_ft_REURB">
+<SimpleField type="xsd:string" name="NAME">
+<displayName>NAME</displayName>
+</SimpleField>
+<SimpleField type="xsd:double" name="QTD_UCS">
+<displayName>QTD_UCS</displayName>
+</SimpleField>
+</Schema>
+<Folder id="kml_ft_REURB">
+<name>REURB</name>
+<Placemark id="kml_1">
+<name>kml_1</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 026495/2022
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>38</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 026495/2022
+</SimpleData>
+<SimpleData name="QTD_UCS">38</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.3805852000477,-27.4451692988849,0.0 -48.3799333996869,-27.4453025991955,0.0 -48.3796999995309,-27.4440147990926,0.0 -48.3804028003301,-27.4438648992533,0.0 -48.3805852000477,-27.4451692988849,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_2">
+<name>kml_2</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 026500/2022
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>227</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 026500/2022
+</SimpleData>
+<SimpleData name="QTD_UCS">227</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.4088935000747,-27.4543991988617,0.0 -48.4088935002352,-27.4537755990284,0.0 -48.4108461999773,-27.4537422992254,0.0 -48.4108890996979,-27.4540088987932,0.0 -48.4116776999547,-27.4539897993647,0.0 -48.4116670003228,-27.4534566993569,0.0 -48.4141614002875,-27.4533995987945,0.0 -48.414220400164,-27.4542991993384,0.0 -48.4088935000747,-27.4543991988617,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_3">
+<name>kml_3</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 026507/2022
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>156</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 026507/2022
+</SimpleData>
+<SimpleData name="QTD_UCS">156</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.4089625996622,-27.4468201988928,0.0 -48.4085602995629,-27.4468296989676,0.0 -48.4085709994991,-27.4469677988447,0.0 -48.4035606002734,-27.4469391995492,0.0 -48.4034318997409,-27.4463488988326,0.0 -48.4086408001796,-27.4463608993481,0.0 -48.4086514996059,-27.4462911989149,0.0 -48.4089304002608,-27.4462881993226,0.0 -48.4089625996622,-27.4468201988928,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_4">
+<name>kml_4</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 031680/2022
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>2</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 031680/2022
+</SimpleData>
+<SimpleData name="QTD_UCS">2</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.3898642004569,-27.4399743994827,0.0 -48.3899285997683,-27.4404158996067,0.0 -48.3901593002507,-27.4406110992698,0.0 -48.3904677000168,-27.4408181991889,0.0 -48.3904034002895,-27.4409229990286,0.0 -48.3894108995356,-27.4409991995912,0.0 -48.3893559995256,-27.4400231990251,0.0 -48.3898642004569,-27.4399743994827,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_5">
+<name>kml_5</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 037304/2022
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>53</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 037304/2022
+</SimpleData>
+<SimpleData name="QTD_UCS">53</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.5270085995904,-27.7047943995922,0.0 -48.526676000147,-27.7050175993136,0.0 -48.5259907001143,-27.7056362993605,0.0 -48.5258190002394,-27.7054854988603,0.0 -48.5258968000597,-27.7054604989055,0.0 -48.5258337996361,-27.7053453991567,0.0 -48.525996000155,-27.705282398834,0.0 -48.5259453994915,-27.7051675993233,0.0 -48.5258920999114,-27.7049813995633,0.0 -48.5259263004519,-27.7049641989879,0.0 -48.5258042999378,-27.7046732992712,0.0 -48.5256085000423,-27.7042291996554,0.0 -48.5257264997593,-27.7040487993923,0.0 -48.5259571995259,-27.7039109988384,0.0 -48.5264507003176,-27.7036117989053,0.0 -48.5265151004031,-27.7039014989227,0.0 -48.5267618002723,-27.7045474989572,0.0 -48.5270085995904,-27.7047943995922,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_6">
+<name>kml_6</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 039248/2022
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>3</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 039248/2022
+</SimpleData>
+<SimpleData name="QTD_UCS">3</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.4659836997126,-27.4849172990796,0.0 -48.4659327002138,-27.4848982990806,0.0 -48.4636394000707,-27.4846483994167,0.0 -48.4636876997283,-27.4843937995832,0.0 -48.4658736998917,-27.4846317995262,0.0 -48.4659836997126,-27.4849172990796,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_7">
+<name>kml_7</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 039594/2022
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>2</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 039594/2022
+</SimpleData>
+<SimpleData name="QTD_UCS">2</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.5103402998715,-27.6922822995329,0.0 -48.5103296003038,-27.6924603990285,0.0 -48.5072798999926,-27.6924461993273,0.0 -48.5072799002383,-27.6922561996212,0.0 -48.5103402998715,-27.6922822995329,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_8">
+<name>kml_8</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 043234/2022
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>13</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 043234/2022
+</SimpleData>
+<SimpleData name="QTD_UCS">13</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.4871259003397,-27.6689519993564,0.0 -48.4870829995543,-27.6684863990639,0.0 -48.4892206997114,-27.6674244991391,0.0 -48.4894486995091,-27.667671599164,0.0 -48.4871259003397,-27.6689519993564,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_9">
+<name>kml_9</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 047126/2022
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>73</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 047126/2022
+</SimpleData>
+<SimpleData name="QTD_UCS">73</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.4935193003827,-27.6984611991615,0.0 -48.4919582996465,-27.6993730996043,0.0 -48.4916283004851,-27.6989883990103,0.0 -48.4915425003354,-27.6990714988884,0.0 -48.4908290001787,-27.6983637990088,0.0 -48.4926448996301,-27.6970005995813,0.0 -48.4927576004514,-27.697306999447,0.0 -48.4928407003919,-27.6974446987707,0.0 -48.4930124001586,-27.6977462988369,0.0 -48.4932617999699,-27.698059799545,0.0 -48.4935193003827,-27.6984611991615,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_10">
+<name>kml_10</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 047136/2022
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>49</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 047136/2022
+</SimpleData>
+<SimpleData name="QTD_UCS">49</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.4879337995885,-27.6777446992063,0.0 -48.4876225998521,-27.6773265995612,0.0 -48.491420699537,-27.6750795995838,0.0 -48.4916834995743,-27.6753835994476,0.0 -48.4917707004375,-27.6754981991065,0.0 -48.4897738003255,-27.6767529989651,0.0 -48.4896786001862,-27.6766317991145,0.0 -48.4879337995885,-27.6777446992063,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_11">
+<name>kml_11</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 047212/2022
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>133</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 047212/2022
+</SimpleData>
+<SimpleData name="QTD_UCS">133</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.4112440996033,-27.488381599659,0.0 -48.411281700218,-27.4878961992049,0.0 -48.4198648001653,-27.4876963995234,0.0 -48.4198486995091,-27.4879152996017,0.0 -48.4197950003581,-27.4881864996361,0.0 -48.4112440996033,-27.488381599659,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_12">
+<name>kml_12</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 047567/2022
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>38</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 047567/2022
+</SimpleData>
+<SimpleData name="QTD_UCS">38</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.4239090003958,-27.5757535990743,0.0 -48.4239075997613,-27.5757630991435,0.0 -48.4238634003885,-27.5758795988202,0.0 -48.4238660001855,-27.5760602994243,0.0 -48.4236837002109,-27.5763360994891,0.0 -48.4235977995535,-27.5763182995379,0.0 -48.423507999912,-27.5763408989374,0.0 -48.4234220995357,-27.5763336995368,0.0 -48.4233362996527,-27.5763027995787,0.0 -48.42328269956,-27.5762611992373,0.0 -48.4231592997826,-27.576225599635,0.0 -48.4230023996518,-27.5762160992854,0.0 -48.422975499625,-27.5758118990043,0.0 -48.4230452999921,-27.5755241992484,0.0 -48.4232276998909,-27.575574098797,0.0 -48.4233108004002,-27.5755788995344,0.0 -48.4235308000169,-27.5756335992559,0.0 -48.4238083995111,-27.5757155991247,0.0 -48.4239090003958,-27.5757535990743,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_13">
+<name>kml_13</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 051181/2022
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>109</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 051181/2022
+</SimpleData>
+<SimpleData name="QTD_UCS">109</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.4216165003548,-27.5019306992962,0.0 -48.4147607997554,-27.5021590992672,0.0 -48.4147660998829,-27.5021162996581,0.0 -48.4147930003133,-27.5016213989947,0.0 -48.4145837996495,-27.5016118991574,0.0 -48.4145891001981,-27.5013216996285,0.0 -48.4149110005088,-27.5013121988047,0.0 -48.4149003003992,-27.5011360989403,0.0 -48.420892300327,-27.5011074987964,0.0 -48.4209674001944,-27.5013073994172,0.0 -48.4210585997729,-27.5014643989684,0.0 -48.4212516996318,-27.5016499989786,0.0 -48.4214287998959,-27.5017974988722,0.0 -48.4216165003548,-27.5019306992962,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_14">
+<name>kml_14</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 056037/2022
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>35</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 056037/2022
+</SimpleData>
+<SimpleData name="QTD_UCS">35</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.4305786004674,-27.3916310991797,0.0 -48.4299751998864,-27.39203829945,0.0 -48.4298947004183,-27.3919310988391,0.0 -48.429073899837,-27.3928765990271,0.0 -48.4281619001807,-27.3922525988796,0.0 -48.4287574002144,-27.3913857987765,0.0 -48.4291329002683,-27.3915333995328,0.0 -48.4292401999896,-27.3913714992767,0.0 -48.4300931004564,-27.3908379988654,0.0 -48.4303183999581,-27.3910999991504,0.0 -48.4304686000683,-27.3913285994475,0.0 -48.4305786004674,-27.3916310991797,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_15">
+<name>kml_15</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 056134/2022
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>53</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 056134/2022
+</SimpleData>
+<SimpleData name="QTD_UCS">53</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.3959236999595,-27.4560634991164,0.0 -48.3967766998672,-27.4560586996006,0.0 -48.3967739995774,-27.4562252995088,0.0 -48.3967471996324,-27.4565156991515,0.0 -48.3939066998226,-27.45647519937,0.0 -48.3938167996949,-27.4564775990015,0.0 -48.3938182003134,-27.4564656991482,0.0 -48.3938933002806,-27.456108699404,0.0 -48.3939093997383,-27.4559777995258,0.0 -48.3940972004932,-27.4559944990974,0.0 -48.3941132999289,-27.4557302992243,0.0 -48.3941153002603,-27.455700599068,0.0 -48.395930499722,-27.4557802991674,0.0 -48.3959236999595,-27.4560634991164,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_16">
+<name>kml_16</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 057769/2022
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>36</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 057769/2022
+</SimpleData>
+<SimpleData name="QTD_UCS">36</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.3806811999252,-27.4487140989624,0.0 -48.3806491003429,-27.4484022989972,0.0 -48.3806276001177,-27.4481570990304,0.0 -48.3813277001016,-27.4480927989114,0.0 -48.3819231002256,-27.4480023992679,0.0 -48.3834386000504,-27.4477024992295,0.0 -48.3834626999815,-27.4477452995571,0.0 -48.3836934001021,-27.4476786993911,0.0 -48.3837040998287,-27.4481427994515,0.0 -48.3823979001132,-27.4484426988824,0.0 -48.3814671000704,-27.4485926990601,0.0 -48.3809173001703,-27.4486616993332,0.0 -48.3806811999252,-27.4487140989624,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_17">
+<name>kml_17</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 058563/2022
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>182</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 058563/2022
+</SimpleData>
+<SimpleData name="QTD_UCS">182</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.3981557001079,-27.4502827995136,0.0 -48.3981556996956,-27.4504398987742,0.0 -48.3972947000069,-27.4504422992491,0.0 -48.3972515001591,-27.4500516989947,0.0 -48.3972676003394,-27.4498850994919,0.0 -48.3977611002049,-27.449896999476,0.0 -48.3977665003803,-27.4497803990636,0.0 -48.4002368003618,-27.4497993996588,0.0 -48.4042977004628,-27.4498207988507,0.0 -48.4043299002607,-27.4500921996527,0.0 -48.4043408002868,-27.4503494988361,0.0 -48.3981557001079,-27.4502827995136,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_18">
+<name>kml_18</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 065830/2022
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>41</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 065830/2022
+</SimpleData>
+<SimpleData name="QTD_UCS">41</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.3971756004627,-27.4509461994061,0.0 -48.3941580995796,-27.4509199995689,0.0 -48.3941554001847,-27.4505652991297,0.0 -48.3944639002512,-27.450567699438,0.0 -48.3944691997181,-27.4504058995871,0.0 -48.3971997001738,-27.4504462995355,0.0 -48.3971890003247,-27.4506271988719,0.0 -48.3971756004627,-27.4509461994061,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_19">
+<name>kml_19</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 065941/2022
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>118</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 065941/2022
+</SimpleData>
+<SimpleData name="QTD_UCS">118</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.4995538000678,-27.7063643987816,0.0 -48.4996395995077,-27.7066018991193,0.0 -48.4990494999877,-27.7067300996502,0.0 -48.4981644004357,-27.7070625989441,0.0 -48.497504499968,-27.7060176995468,0.0 -48.4960078997283,-27.7042318995572,0.0 -48.4951818003856,-27.7029875991973,0.0 -48.4946882001118,-27.7024365993291,0.0 -48.495208599659,-27.7020922987631,0.0 -48.4952783004253,-27.7022133987848,0.0 -48.4958388999246,-27.7018357993662,0.0 -48.4971450997568,-27.7030825994957,0.0 -48.4974454999826,-27.703367498945,0.0 -48.4977995998265,-27.704051399055,0.0 -48.4979820000487,-27.7044218993069,0.0 -48.4983072003335,-27.7047127990401,0.0 -48.498328600268,-27.7048908992204,0.0 -48.4980402997522,-27.7050084992637,0.0 -48.4977418997766,-27.705128399109,0.0 -48.4981374997487,-27.7057136993743,0.0 -48.4983735998815,-27.706096099417,0.0 -48.4986390999783,-27.7065258993429,0.0 -48.4995268996789,-27.7062456990642,0.0 -48.4995538000678,-27.7063643987816,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_20">
+<name>kml_20</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 071687/2022
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>82</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 071687/2022
+</SimpleData>
+<SimpleData name="QTD_UCS">82</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.4223535999785,-27.5116565995953,0.0 -48.4168336001213,-27.5118896993279,0.0 -48.4164903001309,-27.5112378988641,0.0 -48.4222891997737,-27.5110855990523,0.0 -48.4223535999785,-27.5116565995953,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_21">
+<name>kml_21</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 072893/2022
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>46</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 072893/2022
+</SimpleData>
+<SimpleData name="QTD_UCS">46</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.4990909997883,-27.677129798775,0.0 -48.498978300015,-27.6769444993906,0.0 -48.4974869996035,-27.6748256995537,0.0 -48.4976103996954,-27.6744455994605,0.0 -48.4976693999392,-27.6744360990303,0.0 -48.4983400003523,-27.6753624990201,0.0 -48.4985169995679,-27.6752864989439,0.0 -48.4995522997627,-27.6768779996077,0.0 -48.4990909997883,-27.677129798775,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_22">
+<name>kml_22</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 073623/2022
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>2</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 073623/2022
+</SimpleData>
+<SimpleData name="QTD_UCS">2</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.5098743996008,-27.7569342992974,0.0 -48.5098583004207,-27.7565734995986,0.0 -48.5120953002154,-27.7561651993138,0.0 -48.5121704004523,-27.7565069990761,0.0 -48.5098743996008,-27.7569342992974,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_23">
+<name>kml_23</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 077583/2022
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>73</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 077583/2022
+</SimpleData>
+<SimpleData name="QTD_UCS">73</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.4983851996256,-27.6894353989727,0.0 -48.4975751999675,-27.6883000995826,0.0 -48.4996136999602,-27.6870650993715,0.0 -48.5001957001291,-27.68792969938,0.0 -48.5001205995566,-27.6880056991943,0.0 -48.5002842000003,-27.6882953995726,0.0 -48.4983851996256,-27.6894353989727,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_24">
+<name>kml_24</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 111813/2022
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>3</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 111813/2022
+</SimpleData>
+<SimpleData name="QTD_UCS">3</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.5184693003975,-27.4828893991452,0.0 -48.5161653003285,-27.4791725989983,0.0 -48.5164522996983,-27.4790440994942,0.0 -48.5188554996983,-27.4829226996162,0.0 -48.5186516995785,-27.4828893987616,0.0 -48.5184693003975,-27.4828893991452,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_25">
+<name>kml_25</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 111831/2022
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>23</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 111831/2022
+</SimpleData>
+<SimpleData name="QTD_UCS">23</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.4918988001608,-27.659259599553,0.0 -48.4892434001935,-27.6607609992324,0.0 -48.4890126996595,-27.6607087992222,0.0 -48.4889001002825,-27.6605139991383,0.0 -48.4915286998892,-27.6590219988001,0.0 -48.4918988001608,-27.659259599553,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_26">
+<name>kml_26</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 115164/2022
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>58</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 115164/2022
+</SimpleData>
+<SimpleData name="QTD_UCS">58</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.4152873001897,-27.4635847990373,0.0 -48.4140501001611,-27.4636061992251,0.0 -48.414046700143,-27.4635038991797,0.0 -48.410724800288,-27.4635466992569,0.0 -48.4106751998869,-27.4632788996013,0.0 -48.4110117998901,-27.4632777987992,0.0 -48.4110306000553,-27.4630182993206,0.0 -48.4154884000791,-27.4629897989688,0.0 -48.4153381994981,-27.4633372992579,0.0 -48.4152873001897,-27.4635847990373,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_27">
+<name>kml_27</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 115177/2022
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>11</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 115177/2022
+</SimpleData>
+<SimpleData name="QTD_UCS">11</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.3968923996343,-27.4526463989612,0.0 -48.3941405002227,-27.4526845988526,0.0 -48.3941405000016,-27.4522489990711,0.0 -48.3969434002359,-27.4522632993647,0.0 -48.3968923996343,-27.4526463989612,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_28">
+<name>kml_28</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 119420/2022
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>25</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 119420/2022
+</SimpleData>
+<SimpleData name="QTD_UCS">25</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.3811959003526,-27.4610584996362,0.0 -48.3806970002758,-27.4611155990247,0.0 -48.380691600055,-27.4610203988927,0.0 -48.3784385001271,-27.4613107990051,0.0 -48.3784761003292,-27.4617295996709,0.0 -48.377140400225,-27.4618818995211,0.0 -48.3770331000021,-27.4608727991605,0.0 -48.3782185996818,-27.4607775991338,0.0 -48.3782401001001,-27.4609917993595,0.0 -48.3812119995203,-27.4605681989204,0.0 -48.3812226999995,-27.4608061993643,0.0 -48.3811959003526,-27.4610584996362,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_29">
+<name>kml_29</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 124826/2022
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>16</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 124826/2022
+</SimpleData>
+<SimpleData name="QTD_UCS">16</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.4004726003108,-27.4523153992979,0.0 -48.4004766002575,-27.4524748994206,0.0 -48.3970233001121,-27.4524427996556,0.0 -48.3970527996558,-27.4522713990229,0.0 -48.4004726003108,-27.4523153992979,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_30">
+<name>kml_30</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 131679/2022
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>64</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 131679/2022
+</SimpleData>
+<SimpleData name="QTD_UCS">64</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.4238333004261,-27.4268772988188,0.0 -48.4212208002675,-27.4267963995532,0.0 -48.4212584004803,-27.4262535996272,0.0 -48.4211833000873,-27.4261344995691,0.0 -48.4202015999072,-27.4261106994292,0.0 -48.4202016004174,-27.4259345989613,0.0 -48.424546800358,-27.4260678992403,0.0 -48.4238333004261,-27.4268772988188,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_31">
+<name>kml_31</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 133868/2022
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>50</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 133868/2022
+</SimpleData>
+<SimpleData name="QTD_UCS">50</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.5214863996386,-27.6338111993203,0.0 -48.5205958999179,-27.633749499571,0.0 -48.5202016003636,-27.633751799336,0.0 -48.5201104002189,-27.6337517990934,0.0 -48.5201051002739,-27.6337090989195,0.0 -48.5196061999935,-27.6337137988479,0.0 -48.5193165002484,-27.6337327996596,0.0 -48.5192976998213,-27.6336852994804,0.0 -48.5190295002663,-27.633668699248,0.0 -48.5185963001303,-27.6336484988135,0.0 -48.5184689997989,-27.6336507990315,0.0 -48.5183160997522,-27.6336519992821,0.0 -48.5183643003039,-27.6333026989597,0.0 -48.5183617002178,-27.6332611993122,0.0 -48.5183508996826,-27.633232599092,0.0 -48.5195632998788,-27.6332551989781,0.0 -48.5195740004469,-27.633364499269,0.0 -48.5207461001288,-27.6334191994452,0.0 -48.5207943997525,-27.6330412987833,0.0 -48.5216929997124,-27.6331434995893,0.0 -48.5215079003459,-27.633649698836,0.0 -48.5214863996386,-27.6338111993203,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_32">
+<name>kml_32</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 136638/2022
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>21</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 136638/2022
+</SimpleData>
+<SimpleData name="QTD_UCS">21</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.4893221995804,-27.6760679988483,0.0 -48.4878040004489,-27.6742104988937,0.0 -48.4881903004166,-27.6739966987874,0.0 -48.4896493999117,-27.6758589989382,0.0 -48.4893221995804,-27.6760679988483,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_33">
+<name>kml_33</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 136666/2022
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>19</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 136666/2022
+</SimpleData>
+<SimpleData name="QTD_UCS">19</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.4758060002837,-27.6299357992624,0.0 -48.4766803997049,-27.6306557993723,0.0 -48.476511499997,-27.6308434992831,0.0 -48.477010299652,-27.6312736987589,0.0 -48.4768025004836,-27.6315100996057,0.0 -48.4769459997423,-27.631615799278,0.0 -48.4765033999879,-27.632019799288,0.0 -48.4758409001284,-27.6314779994595,0.0 -48.4759871003488,-27.6313413989789,0.0 -48.4750174995692,-27.6305203993553,0.0 -48.4758060002837,-27.6299357992624,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_34">
+<name>kml_34</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 153601/2022
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>87</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 153601/2022
+</SimpleData>
+<SimpleData name="QTD_UCS">87</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.4702634002799,-27.6442968995743,0.0 -48.4699724000361,-27.6438851992919,0.0 -48.4719063004471,-27.6426329990496,0.0 -48.4731997996426,-27.6418307996191,0.0 -48.4730020003328,-27.6415750987897,0.0 -48.474317600327,-27.6407071992354,0.0 -48.4745441995211,-27.6410867991271,0.0 -48.4749156997102,-27.6408390991896,0.0 -48.474918399698,-27.640879498981,0.0 -48.4749372001066,-27.6410505995935,0.0 -48.4749479004531,-27.6411954994574,0.0 -48.4749559003785,-27.6412952995765,0.0 -48.4717534001723,-27.643319699284,0.0 -48.470288900176,-27.6442795993459,0.0 -48.4702634002799,-27.6442968995743,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_35">
+<name>kml_35</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 046301/2023
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>13</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 046301/2023
+</SimpleData>
+<SimpleData name="QTD_UCS">13</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.560007500229,-27.7102604989732,0.0 -48.5576740004914,-27.7115094988829,0.0 -48.5575560002982,-27.7112672988071,0.0 -48.5592941000136,-27.71030319951,0.0 -48.5590312000473,-27.7098187991162,0.0 -48.5597715000548,-27.7094768996544,0.0 -48.5598681002916,-27.7097855990995,0.0 -48.5599378001907,-27.7100752989821,0.0 -48.560007500229,-27.7102604989732,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_36">
+<name>kml_36</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 52845/2020
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>80</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 52845/2020
+</SimpleData>
+<SimpleData name="QTD_UCS">80</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.50206499949,-27.686302699645,0.0 -48.5013282998839,-27.6871735992905,0.0 -48.5024279996117,-27.6879098992449,0.0 -48.5009366997502,-27.6889263994369,0.0 -48.5005018001432,-27.6881311988961,0.0 -48.5002842000003,-27.6882953995726,0.0 -48.5001205995566,-27.6880056991943,0.0 -48.5001957001291,-27.68792969938,0.0 -48.5000461998923,-27.6877388988226,0.0 -48.5015312998464,-27.6860621987788,0.0 -48.5016867999694,-27.6861764988878,0.0 -48.501757899784,-27.6860999991187,0.0 -48.50206499949,-27.686302699645,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_37">
+<name>kml_37</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 60113/2015
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>34</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 60113/2015
+</SimpleData>
+<SimpleData name="QTD_UCS">34</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.4924263002794,-27.6766240991253,0.0 -48.4886658999682,-27.6787522994424,0.0 -48.4882957002502,-27.6782107995871,0.0 -48.491991799828,-27.6761442993921,0.0 -48.4924263002794,-27.6766240991253,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_38">
+<name>kml_38</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 63492/2019
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>35</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 63492/2019
+</SimpleData>
+<SimpleData name="QTD_UCS">35</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.4678119002052,-27.4496247988299,0.0 -48.4691047004543,-27.4489059992937,0.0 -48.4697699004681,-27.4512957989645,0.0 -48.4696090002622,-27.4516098994587,0.0 -48.4690456995265,-27.4517431987696,0.0 -48.4685682996698,-27.4525143994284,0.0 -48.4679835995915,-27.4501389989992,0.0 -48.4678119002052,-27.4496247988299,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_39">
+<name>kml_39</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 44901/2020
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>106</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 44901/2020
+</SimpleData>
+<SimpleData name="QTD_UCS">106</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.4173803002379,-27.4769396994576,0.0 -48.4173990997526,-27.4773941995117,0.0 -48.4113990002755,-27.4775773995936,0.0 -48.4113722003536,-27.4771180990468,0.0 -48.4173803002379,-27.4769396994576,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_40">
+<name>kml_40</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E064239/2018</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>169</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E064239/2018</SimpleData>
+<SimpleData name="QTD_UCS">169</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.5013966995623,-27.6842553993007,0.0 -48.5010641003602,-27.6836116991688,0.0 -48.5029398000769,-27.6813366988674,0.0 -48.5044419001144,-27.6795029989184,0.0 -48.5077430003112,-27.6754469992168,0.0 -48.507807599985,-27.6753663996457,0.0 -48.5081266997869,-27.6761715987962,0.0 -48.5013966995623,-27.6842553993007,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_41">
+<name>kml_41</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 064777/2018</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>18</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 064777/2018</SimpleData>
+<SimpleData name="QTD_UCS">18</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.4985010004916,-27.5526230996695,0.0 -48.4974549001066,-27.5527848993773,0.0 -48.4967844004966,-27.552913299368,0.0 -48.4966878004291,-27.5526754988191,0.0 -48.4969023999508,-27.5525613992039,0.0 -48.497610500224,-27.5521712993153,0.0 -48.4980557004914,-27.5518954993512,0.0 -48.4983025004834,-27.552233199593,0.0 -48.4985010004916,-27.5526230996695,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_42">
+<name>kml_42</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 103670/2018</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>17</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 103670/2018</SimpleData>
+<SimpleData name="QTD_UCS">17</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.5626938999821,-27.8055116988263,0.0 -48.5623840999759,-27.8058449992694,0.0 -48.5621225999288,-27.8057939992636,0.0 -48.5620324003281,-27.8057058992375,0.0 -48.5612985003775,-27.8055797991343,0.0 -48.5604904997637,-27.8054534991831,0.0 -48.5605294001438,-27.8051462990941,0.0 -48.5626938999821,-27.8055116988263,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_43">
+<name>kml_43</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 020970/2019</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>5</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 020970/2019</SimpleData>
+<SimpleData name="QTD_UCS">5</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.5042113000492,-27.6078181988186,0.0 -48.5030472002477,-27.6092632990226,0.0 -48.502896999594,-27.6091491992292,0.0 -48.5039752996552,-27.6078751993815,0.0 -48.5039431003785,-27.6078585988815,0.0 -48.5039968002914,-27.6077836989915,0.0 -48.5041737999124,-27.6076446995765,0.0 -48.5042113000492,-27.6078181988186,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_44">
+<name>kml_44</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 063494/2019</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>32</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 063494/2019</SimpleData>
+<SimpleData name="QTD_UCS">32</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.4345981004659,-27.4493193988671,0.0 -48.4346652004259,-27.4495919988538,0.0 -48.4347443000808,-27.4495823988458,0.0 -48.4347603997562,-27.4496811989463,0.0 -48.4347376002206,-27.449681199334,0.0 -48.4347536998319,-27.4497775993745,0.0 -48.4348154004204,-27.449763299103,0.0 -48.4348663998736,-27.4499406989939,0.0 -48.4348381999382,-27.4499453991143,0.0 -48.4348663998816,-27.4500358992262,0.0 -48.434941499535,-27.4502905991384,0.0 -48.4347724999527,-27.4503262996466,0.0 -48.4349628996917,-27.4511283991946,0.0 -48.4346678997002,-27.4511283991893,0.0 -48.4345605998124,-27.4513711991199,0.0 -48.4339866000946,-27.4511902989885,0.0 -48.4341796996594,-27.4507998991608,0.0 -48.4340402002735,-27.4501619995115,0.0 -48.4344156996875,-27.4500620988051,0.0 -48.4341636000964,-27.4495788995181,0.0 -48.4345981004659,-27.4493193988671,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_45">
+<name>kml_45</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 117123/2019</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>23</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 117123/2019</SimpleData>
+<SimpleData name="QTD_UCS">23</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.4332353998456,-27.4196900989311,0.0 -48.4325541995869,-27.4199686994876,0.0 -48.4318406999004,-27.419378199238,0.0 -48.4312721001522,-27.418987799377,0.0 -48.4311754997626,-27.4189139993892,0.0 -48.4316503002057,-27.4185162995784,0.0 -48.4323905004572,-27.4190805995191,0.0 -48.4327956004305,-27.4193662992617,0.0 -48.4332353998456,-27.4196900989311,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_46">
+<name>kml_46</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 002657/2020
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>23</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 002657/2020
+</SimpleData>
+<SimpleData name="QTD_UCS">23</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.5006616001498,-27.6904244989291,0.0 -48.5008869004154,-27.6908566989995,0.0 -48.5007580999372,-27.6908899991394,0.0 -48.5010477998581,-27.6914124987777,0.0 -48.4994170002015,-27.691835199514,0.0 -48.4988430001443,-27.6919681990812,0.0 -48.4988752003499,-27.6918304995719,0.0 -48.4985532996773,-27.6913696990978,0.0 -48.5006616001498,-27.6904244989291,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_47">
+<name>kml_47</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 068831/2020
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>183</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 068831/2020
+</SimpleData>
+<SimpleData name="QTD_UCS">183</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.5342374996576,-27.7034764990833,0.0 -48.5345594000179,-27.7049487989026,0.0 -48.5351709004294,-27.70492979952,0.0 -48.5357771002853,-27.7084775991253,0.0 -48.5351575001948,-27.7085843995257,0.0 -48.5356952995509,-27.7110266995236,0.0 -48.5341301999497,-27.7112273990073,0.0 -48.5337171003538,-27.7090332995972,0.0 -48.533459600132,-27.7090664992593,0.0 -48.5327568999873,-27.7053809992532,0.0 -48.5330680996867,-27.705335899296,0.0 -48.5329769001833,-27.7043076991619,0.0 -48.5334329001521,-27.7042316992347,0.0 -48.5333576998171,-27.7034360987834,0.0 -48.5342374996576,-27.7034764990833,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_48">
+<name>kml_48</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 068847/2020
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>151</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 068847/2020
+</SimpleData>
+<SimpleData name="QTD_UCS">151</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.50206499949,-27.686302699645,0.0 -48.5018451002387,-27.6861564989834,0.0 -48.501757899784,-27.6860999991187,0.0 -48.5016867999694,-27.6861764988878,0.0 -48.5015312998464,-27.6860621987788,0.0 -48.5086794001245,-27.6777085991823,0.0 -48.5089797996411,-27.6785636994524,0.0 -48.50206499949,-27.686302699645,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_49">
+<name>kml_49</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 070649/2020
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>92</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 070649/2020
+</SimpleData>
+<SimpleData name="QTD_UCS">92</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.5217339003373,-27.6090388994108,0.0 -48.522068100281,-27.60928209949,0.0 -48.5217660997452,-27.609602198774,0.0 -48.5208862999827,-27.610498199106,0.0 -48.520942599694,-27.610550499134,0.0 -48.5209641003833,-27.6105741996619,0.0 -48.5200709001009,-27.6115557988352,0.0 -48.5201862999087,-27.6116307992925,0.0 -48.5200233002472,-27.6118095996705,0.0 -48.5199489001997,-27.6118909988648,0.0 -48.5199328001727,-27.6118766992222,0.0 -48.5198215002955,-27.6117946987821,0.0 -48.5194203997106,-27.6122236990116,0.0 -48.5189416997241,-27.6119004987628,0.0 -48.5190517003299,-27.6117839989169,0.0 -48.5191079995448,-27.6118314994575,0.0 -48.5192958001031,-27.6116342994198,0.0 -48.5192394004306,-27.6115890989121,0.0 -48.5201566998204,-27.6106573992901,0.0 -48.5209559996523,-27.6098469996404,0.0 -48.5217339003373,-27.6090388994108,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_50">
+<name>kml_50</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 070815/2020
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>28</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 070815/2020
+</SimpleData>
+<SimpleData name="QTD_UCS">28</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.4360991999243,-27.449217399222,0.0 -48.4360321001352,-27.4494578992854,0.0 -48.436010700251,-27.4498814993016,0.0 -48.4357692998516,-27.4499386989899,0.0 -48.4357745994831,-27.4503420995885,0.0 -48.43557479979,-27.4503581993573,0.0 -48.4352783996798,-27.4503849987831,0.0 -48.4352623004731,-27.4502712994157,0.0 -48.4347821995712,-27.4503527996053,0.0 -48.4343583995437,-27.4494613991368,0.0 -48.4345981004659,-27.4493193988671,0.0 -48.4348117000622,-27.4492144989397,0.0 -48.4352006004308,-27.4491221990751,0.0 -48.4354393001625,-27.4491269993148,0.0 -48.4357397002614,-27.4491531988771,0.0 -48.4360991999243,-27.449217399222,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_51">
+<name>kml_51</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 074422/2020
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>90</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 074422/2020
+</SimpleData>
+<SimpleData name="QTD_UCS">90</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.4832932004508,-27.6552661990686,0.0 -48.4840442000911,-27.6558268995393,0.0 -48.4803158998477,-27.6578272992868,0.0 -48.4801443004942,-27.6574851989808,0.0 -48.4799403997614,-27.6570859987631,0.0 -48.4832932004508,-27.6552661990686,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_52">
+<name>kml_52</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 082588/2020
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>151</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 082588/2020
+</SimpleData>
+<SimpleData name="QTD_UCS">151</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.5075654003952,-27.6747248994057,0.0 -48.5007793995988,-27.6830620992063,0.0 -48.5002214999601,-27.6819409996389,0.0 -48.5025281996616,-27.6791286995758,0.0 -48.5071412003693,-27.673493598787,0.0 -48.5075654003952,-27.6747248994057,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_53">
+<name>kml_53</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 127932/2020
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>67</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 127932/2020
+</SimpleData>
+<SimpleData name="QTD_UCS">67</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.5294045001465,-27.4914789991458,0.0 -48.5293508996422,-27.4914028989891,0.0 -48.5288680997886,-27.4906129995333,0.0 -48.5291899997451,-27.4904891992165,0.0 -48.5268939999888,-27.4865298992504,0.0 -48.5281814000638,-27.4860444996406,0.0 -48.529683500219,-27.4890615990285,0.0 -48.5303808999503,-27.4903940989263,0.0 -48.530745600372,-27.491060298879,0.0 -48.5294045001465,-27.4914789991458,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_54">
+<name>kml_54</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 133371/2020
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>8</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 133371/2020
+</SimpleData>
+<SimpleData name="QTD_UCS">8</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.5303382995765,-27.5941375988698,0.0 -48.5303115001292,-27.5943705993927,0.0 -48.5305797000514,-27.5945083992823,0.0 -48.5300647002092,-27.5949742990425,0.0 -48.5299842004686,-27.5955590996544,0.0 -48.5294800000379,-27.5960059989669,0.0 -48.5290723003738,-27.5958823996523,0.0 -48.5295283004878,-27.5953498995739,0.0 -48.5297750002045,-27.5952024989793,0.0 -48.5299038003711,-27.5947413994085,0.0 -48.5291205996361,-27.5944703993501,0.0 -48.5292225000469,-27.5942754990011,0.0 -48.5299360000379,-27.5944751993638,0.0 -48.5300110996344,-27.5940424990192,0.0 -48.5303382995765,-27.5941375988698,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_55">
+<name>kml_55</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 137358/2020
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 137358/2020
+</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.4522513995977,-27.4633479989604,0.0 -48.4550408999137,-27.4648901993334,0.0 -48.4541719000955,-27.4658706987818,0.0 -48.4518007997893,-27.4642237990556,0.0 -48.4522513995977,-27.4633479989604,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_56">
+<name>kml_56</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 138706/2020
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>55</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 138706/2020
+</SimpleData>
+<SimpleData name="QTD_UCS">55</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.4909502997738,-27.6627016996022,0.0 -48.4910361001118,-27.6629106992146,0.0 -48.4902796999479,-27.6633430995697,0.0 -48.4901831995036,-27.6632147993826,0.0 -48.4877960002458,-27.664535599343,0.0 -48.4875974996281,-27.6641127994035,0.0 -48.4890404999454,-27.6633097993152,0.0 -48.488943999944,-27.6632052995131,0.0 -48.4900087995601,-27.6626588993907,0.0 -48.4901348999402,-27.6628203993775,0.0 -48.4906499003204,-27.662530599668,0.0 -48.4908161997612,-27.6627681991086,0.0 -48.4909502997738,-27.6627016996022,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_57">
+<name>kml_57</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 013991/2021
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>5</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 013991/2021
+</SimpleData>
+<SimpleData name="QTD_UCS">5</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.3999356995632,-27.4340000991761,0.0 -48.3981815004562,-27.433981099561,0.0 -48.3982673003668,-27.4338143993311,0.0 -48.3999731996495,-27.4338096994685,0.0 -48.3999356995632,-27.4340000991761,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_58">
+<name>kml_58</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 019813/2021
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>17</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 019813/2021
+</SimpleData>
+<SimpleData name="QTD_UCS">17</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.562930799522,-27.7879541994701,0.0 -48.5632419999433,-27.7882721988839,0.0 -48.5628825002819,-27.7885473995266,0.0 -48.5624372994867,-27.7886992995924,0.0 -48.5616112002821,-27.7890741988303,0.0 -48.5611336999167,-27.7894870995234,0.0 -48.5605865999622,-27.7900470994059,0.0 -48.5603344003172,-27.7904693992859,0.0 -48.5603504995857,-27.7907541987583,0.0 -48.5602647004756,-27.7908775989196,0.0 -48.5597175004992,-27.7905358990839,0.0 -48.5602378994853,-27.7898524994841,0.0 -48.5604792995672,-27.7895772990191,0.0 -48.5610104000708,-27.7891928988418,0.0 -48.5619383996043,-27.7885711991394,0.0 -48.562930799522,-27.7879541994701,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_59">
+<name>kml_59</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 044632/2021
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>20</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 044632/2021
+</SimpleData>
+<SimpleData name="QTD_UCS">20</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.555146499738,-27.6918377989048,0.0 -48.5551893997306,-27.6920182992814,0.0 -48.5549212000672,-27.6928970995698,0.0 -48.5548676003413,-27.6934907989973,0.0 -48.5548031999,-27.6934764995141,0.0 -48.554363300088,-27.6933625993871,0.0 -48.5543310995048,-27.693229599041,0.0 -48.5544116001406,-27.6930490988006,0.0 -48.5545832998487,-27.6929635995294,0.0 -48.55452959964,-27.6926880990666,0.0 -48.5541595002502,-27.6927972989201,0.0 -48.5539717001789,-27.6923602991993,0.0 -48.555146499738,-27.6918377989048,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_60">
+<name>kml_60</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 052058/2021
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>18</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 052058/2021
+</SimpleData>
+<SimpleData name="QTD_UCS">18</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.5474284995038,-27.6983751991193,0.0 -48.5485121001949,-27.7040271993758,0.0 -48.5475678998589,-27.7042076995253,0.0 -48.5468920003835,-27.701310499059,0.0 -48.5469348999051,-27.7000565989475,0.0 -48.5469456995861,-27.6996670995477,0.0 -48.5467740003873,-27.6992965987791,0.0 -48.5467203999821,-27.6988691991975,0.0 -48.5468597995242,-27.6986506996176,0.0 -48.5470315004361,-27.6984796989867,0.0 -48.5474284995038,-27.6983751991193,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_61">
+<name>kml_61</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 060579/2021
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>49</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 060579/2021
+</SimpleData>
+<SimpleData name="QTD_UCS">49</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.5165628002762,-27.4867268991669,0.0 -48.5165789001504,-27.48632239914,0.0 -48.5166593995353,-27.4861367988236,0.0 -48.5167720000558,-27.4860415988294,0.0 -48.516922199684,-27.4860129996282,0.0 -48.5170992001557,-27.4860129990093,0.0 -48.5173246003469,-27.4861081990552,0.0 -48.5175177002471,-27.4861700992757,0.0 -48.5177537004336,-27.4861414990679,0.0 -48.5181131000913,-27.4859606990348,0.0 -48.5183759997381,-27.4858178988702,0.0 -48.5191698999689,-27.485403899438,0.0 -48.5193696998783,-27.4853776988099,0.0 -48.5194730003727,-27.485579999341,0.0 -48.518962100162,-27.485820299063,0.0 -48.5189768002441,-27.4858607996501,0.0 -48.5191860003641,-27.4861509988114,0.0 -48.5192825998929,-27.4863270987751,0.0 -48.5190573004097,-27.4864603995109,0.0 -48.5194006003499,-27.486964799476,0.0 -48.5198565997265,-27.4867506989039,0.0 -48.5199638004202,-27.4868838995468,0.0 -48.5194970995073,-27.4871455994609,0.0 -48.5197332003418,-27.4874406989262,0.0 -48.5204520004553,-27.4870218994844,0.0 -48.5207471000306,-27.4872883991088,0.0 -48.5202428002448,-27.4875786995765,0.0 -48.5204144997776,-27.4878784996121,0.0 -48.518037999653,-27.4891918991706,0.0 -48.5178288002671,-27.4887588991542,0.0 -48.5184456998114,-27.4884066992023,0.0 -48.5182580001043,-27.4881021992298,0.0 -48.5174855004278,-27.4878689992731,0.0 -48.5165573999231,-27.4880735992212,0.0 -48.5152432001897,-27.4880688994213,0.0 -48.5153934000288,-27.4877975988265,0.0 -48.5155918000384,-27.4875405996305,0.0 -48.5157367004978,-27.4873787989577,0.0 -48.5159191003502,-27.4872598993019,0.0 -48.5162570001338,-27.487131398953,0.0 -48.5164501998221,-27.4869885988865,0.0 -48.5165628002762,-27.4867268991669,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_62">
+<name>kml_62</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 061645/2021
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>47</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 061645/2021
+</SimpleData>
+<SimpleData name="QTD_UCS">47</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.5148439002513,-27.7081540991316,0.0 -48.5142324000131,-27.708021199335,0.0 -48.513105900334,-27.7025783992664,0.0 -48.51368519984,-27.7023883988938,0.0 -48.5148439002513,-27.7081540991316,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_63">
+<name>kml_63</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 062264/2021
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>28</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 062264/2021
+</SimpleData>
+<SimpleData name="QTD_UCS">28</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.4352507001057,-27.5841587991719,0.0 -48.4344513999729,-27.5845533988738,0.0 -48.4334750995663,-27.5849052994491,0.0 -48.4320641997932,-27.5854615989504,0.0 -48.4318228002092,-27.5852903989521,0.0 -48.4316833996929,-27.5851714993712,0.0 -48.4347195997376,-27.5840018992464,0.0 -48.4352507001057,-27.5841587991719,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_64">
+<name>kml_64</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 063856/2021
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>102</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 063856/2021
+</SimpleData>
+<SimpleData name="QTD_UCS">102</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.4112200001941,-27.4852608992354,0.0 -48.4011723997087,-27.4853798990136,0.0 -48.4011617002748,-27.4847516988603,0.0 -48.4112145999442,-27.4847421987655,0.0 -48.4112200001941,-27.4852608992354,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_65">
+<name>kml_65</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 076768/2021
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>93</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 076768/2021
+</SimpleData>
+<SimpleData name="QTD_UCS">93</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.4477531998864,-27.4255892992795,0.0 -48.4471228996721,-27.427581999392,0.0 -48.4467528005045,-27.4274438989006,0.0 -48.4464014003814,-27.4273081992516,0.0 -48.4468520004366,-27.4257321991308,0.0 -48.4472972001719,-27.4258345994415,0.0 -48.4473831000512,-27.425527399623,0.0 -48.4477531998864,-27.4255892992795,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_66">
+<name>kml_66</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 077728/2021
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>142</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 077728/2021
+</SimpleData>
+<SimpleData name="QTD_UCS">142</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.5196428004154,-27.4355658989005,0.0 -48.5188394998963,-27.4356682992915,0.0 -48.5185606004896,-27.4349350992428,0.0 -48.5186034995019,-27.434125699184,0.0 -48.5179651004228,-27.4341685988661,0.0 -48.5181636003593,-27.4347826994202,0.0 -48.5183459997488,-27.4357063995959,0.0 -48.5173481995887,-27.4359538994986,0.0 -48.5165113998667,-27.4361824991023,0.0 -48.5162753003276,-27.4354968991513,0.0 -48.5168546997873,-27.433906699261,0.0 -48.5161788003942,-27.4336114989901,0.0 -48.5159427000022,-27.4336590993991,0.0 -48.5159856995864,-27.434811299405,0.0 -48.5159426997551,-27.4350111995,0.0 -48.5155672001315,-27.4350587988162,0.0 -48.5152132000668,-27.4324401994051,0.0 -48.5147947999345,-27.4319926993627,0.0 -48.5148268997115,-27.4316974996569,0.0 -48.5157924996155,-27.4313545989525,0.0 -48.5167689001958,-27.4312879995725,0.0 -48.5175091000336,-27.4313069993691,0.0 -48.517434000389,-27.4317831992323,0.0 -48.5181207002157,-27.4318116993435,0.0 -48.5184532995961,-27.4309070987986,0.0 -48.5190004995792,-27.4310117989854,0.0 -48.5187108000013,-27.431897399139,0.0 -48.5188931996925,-27.4325449991401,0.0 -48.5192258000895,-27.4329924990109,0.0 -48.5196012997881,-27.4335066995871,0.0 -48.5195154003262,-27.4338304990441,0.0 -48.5194940003048,-27.4341637988741,0.0 -48.5195047001104,-27.4346017991056,0.0 -48.5195369003003,-27.4349635992657,0.0 -48.5196428004154,-27.4355658989005,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_67">
+<name>kml_67</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 090230/2021
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>62</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 090230/2021
+</SimpleData>
+<SimpleData name="QTD_UCS">62</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.4843708999495,-27.6749242991854,0.0 -48.4846605004933,-27.6747175994779,0.0 -48.4847194996437,-27.6747413994464,0.0 -48.4849663003138,-27.6745560995227,0.0 -48.4847463997214,-27.6743089993555,0.0 -48.4850574996979,-27.6741474988563,0.0 -48.4853632997295,-27.6738054996583,0.0 -48.4857065999646,-27.6733635994561,0.0 -48.4861732997975,-27.673083399233,0.0 -48.4863985999052,-27.6731830993808,0.0 -48.4867419002071,-27.6728552989274,0.0 -48.4866292995259,-27.6727174989869,0.0 -48.4870960001827,-27.6725512988129,0.0 -48.4875465996176,-27.6721901993336,0.0 -48.4883512996475,-27.671634398982,0.0 -48.4889789002066,-27.6721426987902,0.0 -48.4896547998558,-27.6717530993967,0.0 -48.4899981000663,-27.672137899284,0.0 -48.4896359995384,-27.6724419995708,0.0 -48.4893168997347,-27.6722234994333,0.0 -48.4887107000988,-27.6729265990114,0.0 -48.4890218000247,-27.6731070996136,0.0 -48.488930600297,-27.673287599251,0.0 -48.4884103000625,-27.6734633991271,0.0 -48.4882922002613,-27.6732543995361,0.0 -48.4876538996556,-27.6733826988229,0.0 -48.4875358997002,-27.6732115996546,0.0 -48.4872784000277,-27.6732875991416,0.0 -48.4875949004896,-27.6739099992336,0.0 -48.486578299786,-27.6741332988879,0.0 -48.4863342004539,-27.6742092987843,0.0 -48.4857227004502,-27.6745750992252,0.0 -48.4856368999943,-27.6746510990742,0.0 -48.4852934996623,-27.6748030988966,0.0 -48.484934100014,-27.6749384995201,0.0 -48.4850039000591,-27.6750453992312,0.0 -48.4847517003172,-27.6751522990188,0.0 -48.4845156995204,-27.6752591993492,0.0 -48.4843708999495,-27.6749242991854,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_68">
+<name>kml_68</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 119231/2021
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>163</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 119231/2021
+</SimpleData>
+<SimpleData name="QTD_UCS">163</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.4043301003189,-27.450939799433,0.0 -48.3988878997747,-27.4509064991986,0.0 -48.3988885998592,-27.4506547989677,0.0 -48.3984492999195,-27.4506505995764,0.0 -48.3984261996496,-27.4509138993154,0.0 -48.3972979997753,-27.4509105989674,0.0 -48.3972999999396,-27.4505993991852,0.0 -48.3972947000069,-27.4504422992491,0.0 -48.3981556996956,-27.4504398987742,0.0 -48.3981557001079,-27.4502827995136,0.0 -48.4043408002868,-27.4503494988361,0.0 -48.4043301003189,-27.450939799433,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_69">
+<name>kml_69</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 151245/2021
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>50</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 151245/2021
+</SimpleData>
+<SimpleData name="QTD_UCS">50</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.5694132999724,-27.7595119994141,0.0 -48.569220200424,-27.7594977990459,0.0 -48.5689679998938,-27.759436099472,0.0 -48.5686998000501,-27.7593410992895,0.0 -48.5672242999394,-27.7609627990706,0.0 -48.5668058997593,-27.7606304995465,0.0 -48.5673799004284,-27.7599564989846,0.0 -48.5667201004738,-27.7595101990265,0.0 -48.5678680998765,-27.7581335995169,0.0 -48.5673316002834,-27.7577632994611,0.0 -48.5677500000607,-27.7572315990736,0.0 -48.5679431997665,-27.7572790987697,0.0 -48.5681576999186,-27.7572695994755,0.0 -48.5684045001279,-27.7572410990869,0.0 -48.5686404995301,-27.7573360988904,0.0 -48.5688873003931,-27.7574404989703,0.0 -48.5690803997582,-27.7576018987828,0.0 -48.5692305997954,-27.7578866991966,0.0 -48.5692305999218,-27.7580670993183,0.0 -48.5691769996399,-27.7582759995886,0.0 -48.5691340995273,-27.7585132992862,0.0 -48.5691126003036,-27.758760199577,0.0 -48.5691125998913,-27.7590164991818,0.0 -48.5691769998492,-27.7592158993203,0.0 -48.5692628001305,-27.7593867995847,0.0 -48.5694132999724,-27.7595119994141,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_70">
+<name>kml_70</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 156360/2021
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>131</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 156360/2021
+</SimpleData>
+<SimpleData name="QTD_UCS">131</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.4090049001498,-27.4462455992109,0.0 -48.4093750002404,-27.4462360995521,0.0 -48.4093749995985,-27.4463454995009,0.0 -48.4136289999651,-27.4463645991271,0.0 -48.4136074997548,-27.4467215995085,0.0 -48.4122772002786,-27.4467215990989,0.0 -48.4122664004801,-27.4476118989118,0.0 -48.4094233004381,-27.4475737988863,0.0 -48.4094178999351,-27.4478498996575,0.0 -48.4089943002633,-27.4478464990731,0.0 -48.4090370996058,-27.4474737992094,0.0 -48.4090853001962,-27.4471690990484,0.0 -48.4090584998385,-27.4468882992102,0.0 -48.4090210003071,-27.4464073992869,0.0 -48.4090049001498,-27.4462455992109,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_71">
+<name>kml_71</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 156369/2021
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>138</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 156369/2021
+</SimpleData>
+<SimpleData name="QTD_UCS">138</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.414530899728,-27.4524498992403,0.0 -48.4089089997925,-27.4525451991821,0.0 -48.4089143000717,-27.4520309993751,0.0 -48.4144612002583,-27.4519119991489,0.0 -48.414530899728,-27.4524498992403,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_72">
+<name>kml_72</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 156916/2021
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>30</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 156916/2021
+</SimpleData>
+<SimpleData name="QTD_UCS">30</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.4132713001712,-27.4714097996045,0.0 -48.4132591999447,-27.4715097993627,0.0 -48.4151876996312,-27.4714716988081,0.0 -48.4151930997996,-27.4718476990948,0.0 -48.4107782001766,-27.4719332995415,0.0 -48.4106361000799,-27.4715644988592,0.0 -48.4118551998601,-27.4715299992475,0.0 -48.4118887005019,-27.4714288990389,0.0 -48.4132713001712,-27.4714097996045,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_73">
+<name>kml_73</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 160477/2021
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>3</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 160477/2021
+</SimpleData>
+<SimpleData name="QTD_UCS">3</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.5080571002535,-27.6013811995605,0.0 -48.5079417002032,-27.6008415991146,0.0 -48.5089368002234,-27.6007856993918,0.0 -48.5089582998828,-27.6010768994896,0.0 -48.5086041999406,-27.6012171989656,0.0 -48.5080571002535,-27.6013811995605,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_74">
+<name>kml_74</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 163808/2021
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>70</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 163808/2021
+</SimpleData>
+<SimpleData name="QTD_UCS">70</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.5401445999426,-27.7009302996153,0.0 -48.5397691001408,-27.7010109992461,0.0 -48.5396295995904,-27.7010014994008,0.0 -48.5390233998341,-27.7009777991685,0.0 -48.53865329979,-27.6993200991188,0.0 -48.53888389968,-27.6992678987751,0.0 -48.5386693004629,-27.6980756994344,0.0 -48.5396241995823,-27.6979236992145,0.0 -48.5401445999426,-27.7009302996153,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_75">
+<name>kml_75</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 003563/2022
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>82</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 003563/2022
+</SimpleData>
+<SimpleData name="QTD_UCS">82</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.4956658002875,-27.661232898989,0.0 -48.4952045000854,-27.6610249992899,0.0 -48.4939814001145,-27.6603419991952,0.0 -48.4941611002842,-27.6601258995115,0.0 -48.4943783999421,-27.6598953989475,0.0 -48.495105300435,-27.659453499052,0.0 -48.495665800057,-27.6591541996295,0.0 -48.4963792998161,-27.6599333989283,0.0 -48.4961660996281,-27.6600687989796,0.0 -48.4958831001125,-27.6607957991343,0.0 -48.4956658002875,-27.661232898989,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_76">
+<name>kml_76</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 009203/2022
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>219</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 009203/2022
+</SimpleData>
+<SimpleData name="QTD_UCS">219</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.4090877997599,-27.4440620993217,0.0 -48.4089591000527,-27.4449380992189,0.0 -48.4059603003784,-27.4449380993364,0.0 -48.4058691998077,-27.4445619994699,0.0 -48.4030850003801,-27.4445334994238,0.0 -48.4029402001562,-27.4439383994086,0.0 -48.4071082998834,-27.4440192992941,0.0 -48.4070976004927,-27.4442049995458,0.0 -48.4073121996523,-27.4442334992103,0.0 -48.4073282995837,-27.4440287993866,0.0 -48.4090877997599,-27.4440620993217,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_77">
+<name>kml_77</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 019922/2022
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>89</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 019922/2022
+</SimpleData>
+<SimpleData name="QTD_UCS">89</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.4610989003034,-27.5848037990085,0.0 -48.4619624999293,-27.5845707991681,0.0 -48.4631266001813,-27.5844946990402,0.0 -48.4632928999392,-27.5849511990593,0.0 -48.46494520006,-27.5847086992201,0.0 -48.4651383002075,-27.5855359990657,0.0 -48.4648754000194,-27.5863537996179,0.0 -48.4642854004368,-27.5864345990575,0.0 -48.4623166002891,-27.5866484989086,0.0 -48.4620161999721,-27.5866698992034,0.0 -48.4615011995816,-27.5867316993395,0.0 -48.461310799793,-27.5868362996384,0.0 -48.4612545002258,-27.5868624993869,0.0 -48.4612483996593,-27.5868618996469,0.0 -48.4612974004286,-27.5866675989957,0.0 -48.4613509999352,-27.5864487990781,0.0 -48.4614046001999,-27.5861682989098,0.0 -48.4613563998346,-27.5858069991385,0.0 -48.461275900216,-27.5854646995503,0.0 -48.4612329997769,-27.5852030987705,0.0 -48.4612061995057,-27.5850081990185,0.0 -48.4610989003034,-27.5848037990085,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_78">
+<name>kml_78</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 026486/2022
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>4</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 026486/2022
+</SimpleData>
+<SimpleData name="QTD_UCS">4</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.3786601999227,-27.4458578987786,0.0 -48.380300399908,-27.4455612988371,0.0 -48.3802883003156,-27.4455073996054,0.0 -48.380650399571,-27.445447299632,0.0 -48.3806732000856,-27.4456103989719,0.0 -48.380934699814,-27.4455793991759,0.0 -48.3809614996232,-27.445748399582,0.0 -48.3799596999554,-27.4459227993135,0.0 -48.379982500243,-27.4461066993061,0.0 -48.3796351996966,-27.4461571989191,0.0 -48.3795995998445,-27.4460134989089,0.0 -48.3787138002358,-27.4461744995318,0.0 -48.3786601999227,-27.4458578987786,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_79">
+<name>kml_79</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NAME</th>
+<td>E 026492/2022
+</td>
+</tr><tr bgcolor="">
+<th>QTD_UCS</th>
+<td>88</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_REURB">
+<SimpleData name="NAME">E 026492/2022
+</SimpleData>
+<SimpleData name="QTD_UCS">88</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>-48.38085699985,-27.4546494995915,0.0 -48.3805028997071,-27.4533880989034,0.0 -48.3832172998053,-27.4529072995793,0.0 -48.3836893995944,-27.4541734994154,0.0 -48.38085699985,-27.4546494995915,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+</Folder>
+</Document></kml>
